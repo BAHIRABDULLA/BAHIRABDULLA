@@ -8,7 +8,7 @@
 
 ## 🏹 About Me
 - ⚡ A **MERN Stack Sorcerer** casting spells with **MongoDB, Express, React, Node.js**.
-- 📜 Summoning magical UIs with **TailwindCSS **.
+- 📜 Summoning magical UIs with **TailwindCSS, Bootstrap and other libraries**.
 - 🏰 Exploring the lands of **Microservices**.
 - 💡 Seeking quests in software development & problem-solving.
 

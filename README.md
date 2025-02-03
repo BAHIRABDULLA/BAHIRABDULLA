@@ -16,7 +16,7 @@
 
 ## 🔥 Skills & Weapons
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,docker,kubernetes" />
 </p>
 
 ---

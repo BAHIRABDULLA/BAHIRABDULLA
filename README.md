@@ -27,13 +27,13 @@
 
 ---
 
-### 🏆 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahirabdulla&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahirabdulla&theme=tokyonight" />
-</p>
+ <!-- ### 🏆 My Stats  -->
+<!--  <p align="center">  -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=bahirabdulla&show_icons=true&theme=tokyonight" /> -->
+<!--   <br /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahirabdulla&theme=tokyonight" /> -->
+<!-- </p> -->
 
----
+ <!--  ---  -->
 
 🧙‍♂️ *May the Code be with You!* 🚀

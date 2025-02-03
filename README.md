@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🔮 Welcome, Traveler! I'm Bahir Abdulla ⚔️</h1>
+<h1 align="center">Welcome, Traveler! I'm Bahir Abdulla </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bahirabdulla&label=Profile+Visits&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
@@ -8,8 +8,8 @@
 
 ## 🏹 About Me
 - ⚡ A **MERN Stack Sorcerer** casting spells with **MongoDB, Express, React, Node.js**.
-- 📜 Summoning magical UIs with **TailwindCSS & TypeScript**.
-- 🏰 Exploring the lands of **Microservices **.
+- 📜 Summoning magical UIs with **TailwindCSS **.
+- 🏰 Exploring the lands of **Microservices**.
 - 💡 Seeking quests in software development & problem-solving.
 
 ---
@@ -29,9 +29,9 @@
 
 ### 🏆 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bahirabdulla&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahirabdulla&theme=tokyonight" />
 </p>
 
 ---

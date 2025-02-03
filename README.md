@@ -6,24 +6,24 @@
 
 ---
 
-## 🏹 About Me
-- ⚡ A **MERN Stack Sorcerer** casting spells with **MongoDB, Express, React, Node.js**.
-- 📜 Summoning magical UIs with **TailwindCSS, Bootstrap and other libraries**.
-- 🏰 Exploring the lands of **Microservices**.
-- 💡 Seeking quests in software development & problem-solving.
+##  About Me
+-  A **MERN Stack Sorcerer** casting spells with **MongoDB, Express, React, Node.js**.
+-  Summoning magical UIs with **TailwindCSS, Bootstrap and other libraries**.
+-  Exploring the lands of **Microservices**.
+-  Seeking quests in software development & problem-solving.
 
 ---
 
-## 🔥 Skills & Weapons
+##  Skills & Weapons
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,docker,kubernetes" />
 </p>
 
 ---
 
-## 📖 My Current Quest
-- 🏗️ Building **Vision**, a mentorship & learning platform.
-- 🎯 Honing my **backend wizardry** with microservices.
+##  My Current Quest
+-  Building **Vision**, a mentorship & learning platform.
+-  Honing my **backend wizardry** with microservices.
 
 ---
 

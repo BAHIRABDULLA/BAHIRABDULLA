@@ -1,8 +1,8 @@
 <!-- Header -->
 <h1 align="center">Welcome, Traveler! I'm Bahir Abdulla </h1>
-<p align="center">
+<!-- <p align="center">
   <img  src="https://komarev.com/ghpvc/?username=bahirabdulla&label=Profile+Visits&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
